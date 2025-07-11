@@ -3,10 +3,78 @@
 a bunch of lists you may or may not give a fuck about
 
 ## games i enjoy
+- 1000xresist
+- ac odyssey, black flag & valhalla
+- alan wake 2
+- as dusk falls
+- atomic heart
+- babbdi
+- battlefield 1
+- blade & sorcery
+- bomb rush cyberfunk
+- boneworks & bonelab
+- cats are liquid series
+- chants of sennaar
+- chivalry 2
+- cities skylines
+- control
+- cyberpunk 2077
 - death stranding
-- mirrors edge series
+- detroit become human
 - dragons dogma 2
-- 
+- elite dangerous
+- everything
+- far cry 5
+- far cry new dawn
+- far cry primal
+- ghost of tsushima
+- ghost recon breakpoint
+- g string
+- hellblade series
+- horizon series
+- house flipper & 2
+- immortality
+- jusant
+- kingdom come deliverance
+- lemma
+- life is strange series
+- lorn's lure
+- lost records bloom and sage
+- manifold garden
+- marvel's spider-man 1 & mm
+- medieval dynasty
+- metal garden
+- mirrors edge series
+- monster hunter world
+- naissancee
+- oblivion
+- overwatch 2
+- palia
+- panelki
+- peripeteia
+- phantasy star online 2
+- planet crafter
+- portal & 2
+- postal 2
+- ready or no
+- raft
+- reka
+- road 96
+- sants row the third
+- sludge life & 2
+- solar ash
+- steep
+- stray
+- suchart
+- sunset overdrive
+- superliminal
+- tainted grail fall of avalon
+- tell me why
+- the quarry
+- titanfall 2
+- vrchat
+- watch dogs & 2
+- within the backrooms
 
 ## all time favorite albums
 - acloudyskye - what do you want!
@@ -31,6 +99,7 @@ a bunch of lists you may or may not give a fuck about
 - leya - flood dream
 - liana flores - flower of the soul
 - linda martini - errôr
+- linda martini - passa-montanhas
 - loathe - i let it in and it took everything
 - loathe - the things they believe
 - local natives - hummingbird

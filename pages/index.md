@@ -1,20 +1,23 @@
 # // bio
 
-> "suffer." - gandhi
+>"suffer." 
+>
+>gandhi
 
-hello i go by many names
+hello i am 20 and go by many fake names
 - sofie
 - iris
 - kat
 - max
 - lily
+- prairie
 
-```
+if you care for labels here are a couple of mine
+- aromantic
+- asexual
+- autistic
+- adhd
+- aphantasic
+- alexithymic
 
-```
-
-fun fact: these pages are all being generated with marker from markdown (.md), a human notetaking format, to html! and it's really sick!
-
-this was my first time doing this so all the javascript (and none of the md or html) was entirely done by chatgpt until i learn it in school :3
-
-HTML WORKS INSIDE MARKDOWN?? HOW DID I NOT KNOW THIS
+##### hewo tis i cute font

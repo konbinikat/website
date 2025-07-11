@@ -38,6 +38,8 @@ fs.readdirSync(entriesDir).forEach(file => {
     console.log(`DONE // built entry: wiki/${baseName}.html`);
 });
 
+console.log('');
+
 fs.readdirSync(pagesDir).forEach(file => {
     if (!file.endsWith('.md')) return;
 

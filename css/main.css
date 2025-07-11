@@ -1,17 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100..900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
 
 :root {
+
+    /* original blue theme */
     --bg: #2e3440;
     --bg2: #161a1d;
     --text: #f5f3f4;
-    --link: #d3d3d3;
+    --link: #f5f3f4;
     --theme: #81a1c1;
 
+    /* cutesy theme 
+    --bg: #717E98;
+    --bg2: #586874;
+    --text: #FFFFFF;
+    --link: #FFFFFF;
+    --theme: #9FB8D0;
+    */
+
     --spacer: 1.3rem;
+
+    --mainFont: "Noto Sans";
+    --handFont: "Merienda";
+    --hFont: "Montserrat Alternates";
+    --cuteFont: "Jua";
+    --titleFont: "Blinker";
+
 }
 
 * {
-    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    font-family: var(--mainFont), Arial, Helvetica, sans-serif;
     cursor: default;
     /*transition: all 0.2s ease-in-out;*/
 }
@@ -34,7 +58,7 @@ p {
 
 main {
     padding: var(--spacer);
-    line-height: 15px;
+    line-height: var(--spacer);
 }
 
 h2 {
@@ -71,16 +95,6 @@ blockquote p:first-of-type::before {
     font-weight: bolder;
 }
 
-blockquote {
-    font-style: italic;
-    background-color: #00000020;
-    padding: 0.5rem;
-    border-radius: 0.5rem;
-    width: fit-content;
-    margin-left: 0rem;
-    line-height: var(--spacer);
-}
-
 nav {
     padding: 0rem;
     padding-top: var(--spacer);
@@ -103,6 +117,15 @@ nav {
     background-color: #00000020;
 }
 
+nav p, nav, nav a {
+    font-family: var(--hFont);
+    font-weight: 900;
+}
+
+nav p:hover {
+    font-weight: bolder;
+}
+
 a:hover {
     color: var(--text);
 }
@@ -120,19 +143,57 @@ img {
 h1, h2 {
     color: var(--theme);
     font-weight: bolder;
+    font-family: var(--hFont);
+}
+
+h3 {
+    font-size: large;
+    padding-top: var(--spacer);
+    font-family: var(--hFont);
+}
+
+h5 {
+    font-family: var(--cuteFont);
+    font-weight: lighter;
+    font-size: medium;
+}
+
+blockquote {
+    font-style: italic;
+    background-color: #00000020;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: fit-content;
+    margin-left: 0rem;
+    line-height: var(--spacer);
+}
+
+blockquote p {
+    font-family: var(--handFont);
+    font-weight: bolder;
+    text-indent: var(--spacer);
+}
+
+blockquote p:first-of-type {
+    text-indent: 0.3rem;
+}
+
+blockquote p:last-of-type {
+    text-align: right;
+    font-family: var(--mainFont);
 }
 
 /* custom classes */
 
-.themed, .theme a {
+.theme a {
     color: var(--theme);
-    font-weight: bolder;
+    font-weight: lighter;
     font-size: 150%;
 }
 
 .theme a:hover {
     /*font-size: 170%;*/
-    font-weight: 900;
+    font-weight: bolder;
 }
 
 .active {

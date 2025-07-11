@@ -36,8 +36,6 @@ As a Producer (many more):
 >
 >   An ambience is defined as an atmosphere, or a surrounding influence: a tint. My intention is to produce original pieces ostensibly (but not exclusively) for particular times and situations with a view to building up a small but versatile catalogue of environmental music suited to a wide variety of moods and atmospheres. 
 >
->...
->
 >   Ambient Music must be able to accomodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting.
 >
 >Brian Eno, September 1978, liner notes from American Release of Music for Airports / Ambient 1
