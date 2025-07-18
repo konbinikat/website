@@ -11,6 +11,7 @@ hello i am 20 and go by many fake names
 - max
 - lily
 - prairie
+- erin
 
 if you care for labels here are a couple of mine
 - aromantic
